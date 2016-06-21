@@ -16,6 +16,12 @@ main()
 	
 	fclose(fp);
 	
-	printf
+	printf()
 	
 }
+///
+///
+///
+///
+///
+///
